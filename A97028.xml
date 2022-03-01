@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick to my Lord Protector, of the present greatness and joynt interest of His Highness, and this nation. / By E.W. Esq.</title>
+            <author>Waller, Edmund, 1606-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97028</idno>
+            <idno type="STC">Wing W506</idno>
+            <idno type="STC">Thomason E841_2</idno>
+            <idno type="STC">ESTC R203983</idno>
+            <idno type="EEBO-CITATION">99863729</idno>
+            <idno type="PROQUEST">99863729</idno>
+            <idno type="VID">168173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168173)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E841[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick to my Lord Protector, of the present greatness and joynt interest of His Highness, and this nation. / By E.W. Esq.</title>
+                  <author>Waller, Edmund, 1606-1687.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lowndes at the White Lyon in S. Pauls Church-yard, neer the little North-dore.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.W. = Edmund Waller.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "May. 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168173:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>A PANEGYRICK TO My LORD <hi>PROTECTOR,</hi> OF The preſent Greatneſs and joynt In<g ref="char:EOLhyphen"/>tereſt of His Highneſs, and this Nation.</p>
+            <p>By <hi>E. W.</hi> Eſq.</p>
+            <figure/>
+            <p>
+               <add>May. 31</add> 
+               <hi>LONDON,</hi> Printed for RICHARD LOWNDES at the White Lyon in S. <hi>Pauls</hi> Church-yard, neer the little North-dore. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:168173:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="1" facs="tcp:168173:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>A PANEGYRICK TO My LORD <hi>PROTECTOR,</hi> OF The preſent Greatneſs and joynt In<g ref="char:EOLhyphen"/>tereſt of His Highneſs, and this Nation.</head>
+            <lg>
+               <l>WHilſt with a ſtrong, and yet a gentle hand</l>
+               <l>You bridle faction, and our hearts command,</l>
+               <l>Protect us from our ſelves, and from the Foe,</l>
+               <l>Make us unite, and make us conquer too.</l>
+            </lg>
+            <lg>
+               <l>Let partiall ſpirits ſtill aloud complain</l>
+               <l>Think themſelves injured that they cannot Raign,</l>
+               <l>And own no liberty but where they may</l>
+               <l>Without controul upon their fellows prey.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:168173:3"/>
+               <!-- PDF PAGE 43 -->
+               <l>Above the waves as <hi>Neptune</hi> ſhew'd his face</l>
+               <l>To chide the windes, and ſave the Trojan Race;</l>
+               <l>So has your Highneſs, rais'd above the reſt</l>
+               <l>Storms of Ambition toſſing us repreſt.</l>
+            </lg>
+            <lg>
+               <l>Your drooping Countrey torn with Civil Hate,</l>
+               <l>Reſtor'd by you is made a Glorious State,</l>
+               <l>The ſeat of Empire where the Iriſh come,</l>
+               <l>And the unwilling Scotch to fetch their doom.</l>
+            </lg>
+            <lg>
+               <l>The Sea's our own, and now all Nations greet</l>
+               <l>With bending ſails each Veſſell of our Fleet.</l>
+               <l>Your power extends as farre as windes can blow,</l>
+               <l>Or ſwelling ſails upon the Globe may goe.</l>
+            </lg>
+            <lg>
+               <l>Heav'n that hath plac'd this Iſland to give Law</l>
+               <l>To ballance <hi>Europe,</hi> and her States to awe,</l>
+               <l>In this conjunction doth on <hi>Britain</hi> ſmile,</l>
+               <l>The greateſt Leader, and the greateſt Iſle.</l>
+            </lg>
+            <lg>
+               <l>Whether this Portion of the world were rent</l>
+               <l>By the rude Ocean from the Continent,</l>
+               <l>Or thus created, it was ſure deſign'd</l>
+               <l>To be the ſacred refuge of mankind.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:168173:3"/>
+               <!-- PDF PAGE 43 -->
+               <l>Hither th' oppreſſed ſhall henceforth reſort</l>
+               <l>Juſtice to crave, and ſuccour at your Court,</l>
+               <l>And then your Highneſs, not for ours alone,</l>
+               <l>But for the Worlds Protector ſhall be known.</l>
+            </lg>
+            <lg>
+               <l>Fame ſwifter than your winged Navy flies</l>
+               <l>Through ev'ry Land that near the Ocean lies,</l>
+               <l>Sounding your name, and telling dreadfull news</l>
+               <l>To all that Pyracie, and rapine uſe.</l>
+            </lg>
+            <lg>
+               <l>With ſuch a Chief the meaneſt Nation bleſt,</l>
+               <l>Might hope to lift her head above the reſt.</l>
+               <l>What may be thought impoſſible to doe,</l>
+               <l>By us, embraced by the Seas, and you,</l>
+            </lg>
+            <lg>
+               <l>Lord of the Worlds great Waſt, the Ocean? we</l>
+               <l>Whole Forreſts ſend to Reign upon the Sea,</l>
+               <l>And every Coaſt may trouble or relieve,</l>
+               <l>But none can viſit us without your leave.</l>
+            </lg>
+            <lg>
+               <l>Angels and we have this Prerogative,</l>
+               <l>That none can at our happy Seas arrive,</l>
+               <l>While we deſcend at pleaſure to invade</l>
+               <l>The Bad with Vengeance, and the Good to aide.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:168173:4"/>
+               <!-- PDF PAGE 44 -->
+               <l>Our little World the Image of the great,</l>
+               <l>Like that amidſt the boundleſſe Ocean ſet,</l>
+               <l>Of her own growth hath all that Nature craves,</l>
+               <l>And all that's rare, as Tribute from the Waves.</l>
+            </lg>
+            <lg>
+               <l>As <hi>Aegypt</hi> does not on the Clouds relie,</l>
+               <l>But to the <hi>Nile</hi> owes more than to the skie,</l>
+               <l>So what our Earth and what our Heaven denies,</l>
+               <l>Our ever-conſtant friend the Sea ſupplies.</l>
+            </lg>
+            <lg>
+               <l>The taſt of hot <hi>Arabia</hi>'s ſpice we know,</l>
+               <l>Free from the ſcorching Sun that makes it grow;</l>
+               <l>Without the Worm in Perſian-ſilks we ſhine,</l>
+               <l>And without planting drink of ev'ry Vine.</l>
+            </lg>
+            <lg>
+               <l>To dig for Wealth we weary not our limbs,</l>
+               <l>Gold (though the heavieſt mettle) hither ſwims:</l>
+               <l>Ours is the Harveſt where the Indians mow,</l>
+               <l>We plough the deep, and reap what others ſow.</l>
+            </lg>
+            <lg>
+               <l>Things of the nobleſt kinde our own ſoil breeds;</l>
+               <l>Stout are our men, and warlike are our ſteeds;</l>
+               <l>
+                  <hi>Rome</hi> (though her Eagle through the world had flown)</l>
+               <l>Could never make this Iſland all her own.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:168173:4"/>
+               <!-- PDF PAGE 44 -->
+               <l>Here the third <hi>Edward,</hi> and the black Prince too,</l>
+               <l>
+                  <hi>France</hi> Conquering <hi>Henry,</hi> flouriſht; and now you,</l>
+               <l>For whom we ſtayed, as did the Trojan State</l>
+               <l>Till <hi>Alexander</hi> came to urge their Fate.</l>
+            </lg>
+            <lg>
+               <l>When for more Worlds the Macedonian cry'd,</l>
+               <l>He wiſt not <hi>Thetys</hi> in her Lap did hide</l>
+               <l>Another yet, a World reſerv'd for you,</l>
+               <l>To make more great than that he did ſubdue.</l>
+            </lg>
+            <lg>
+               <l>He ſafely might old Troops to Battail lead</l>
+               <l>Againſt th' unwarlike Perſians, and the Mede,</l>
+               <l>Whoſe haſty flight did from a bloodleſſe field,</l>
+               <l>More ſpoil than honour to the Victor yield.</l>
+            </lg>
+            <lg>
+               <l>A Race unconquer'd, by their Clyme made bold,</l>
+               <l>The Calcedonians, arm'd with want and cold,</l>
+               <l>Have by a Fate indulgent to your Name</l>
+               <l>Been from all Ages kept for you to tame.</l>
+            </lg>
+            <lg>
+               <l>Whom the Old Roman-wall ſo ill confin'd,</l>
+               <l>With a new chain of Garriſons you binde:</l>
+               <l>Here foraign Gold no more ſhall make them come,</l>
+               <l>Our Engliſh iron holds them faſt at home.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:168173:5"/>
+               <!-- PDF PAGE 45 -->
+               <l>They that henceforth muſt be content to know</l>
+               <l>No warmer Region than their hills of ſnow,</l>
+               <l>May blame the Sun, but muſt extoll your Grace,</l>
+               <l>Wich in our Senate hath allow'd them place.</l>
+            </lg>
+            <lg>
+               <l>Preferr'd by Conqueſt happily overthrown,</l>
+               <l>Falling you riſe to be with us made one:</l>
+               <l>So kinde Dictators made, when they came home,</l>
+               <l>Their vanquiſht foes, free Citizens of <hi>Rome.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Like favour finde the Iriſh, with like fate</l>
+               <l>Advanc'd to be a Portion of our State,</l>
+               <l>While by your valour and your bounteous mind</l>
+               <l>Nations divided by the Sea are joyn'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Holland,</hi> to gain your friendſhip is content</l>
+               <l>To be our Out guard on the Continent:</l>
+               <l>She from her fellow Provinces would goe,</l>
+               <l>Rather than hazard to have you her foe.</l>
+            </lg>
+            <lg>
+               <l>In our late Fight, when Canons did diffuſe,</l>
+               <l>Preventing Poſts, the terror, and the news,</l>
+               <l>Our neighbour-Princes trembled at their rore,</l>
+               <l>But our Conjunction makes them tremble more.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:168173:5"/>
+               <!-- PDF PAGE 45 -->
+               <l>Your never-failing Sword made Warre to ceaſe,</l>
+               <l>And now you heal us with the Acts of Peace:</l>
+               <l>Our minds with bounty, and with awe engage,</l>
+               <l>Invite Affection, and reſtrain our Rage.</l>
+            </lg>
+            <lg>
+               <l>Leſſe pleaſure take brave mindes in Battails won,</l>
+               <l>Then in reſtoring ſuch as are undone;</l>
+               <l>Tygres have courage, and the rugged Bear,</l>
+               <l>But Man alone can whom he Conquers, ſpare.</l>
+            </lg>
+            <lg>
+               <l>To pardon, willing; and to puniſh, loath;</l>
+               <l>You ſtrike with one hand, but you heal with both</l>
+               <l>Lifting up all that proſtrate lie, you grieve</l>
+               <l>You cannot make the dead again to live.</l>
+            </lg>
+            <lg>
+               <l>When Fate or Errour had our Age miſled,</l>
+               <l>And ore this Nation ſuch confuſion ſpred:</l>
+               <l>The onely cure which could from Heaven come down,</l>
+               <l>Was ſo much power and piety in one.</l>
+            </lg>
+            <lg>
+               <l>One whoſe extraction's from an Antient Line,</l>
+               <l>Gives hope again that well born men may ſhine:</l>
+               <l>The meaneſt in your nature milde and good,</l>
+               <l>The noble reſt ſecured in your blood.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:168173:6"/>
+               <!-- PDF PAGE 46 -->
+               <l>Oft have we wondred how you hid in peace,</l>
+               <l>Amid proportion'd to ſuch things as theſe,</l>
+               <l>How ſuch a Ruling ſpirit you could reſtrain,</l>
+               <l>And practice firſt over your ſelf to Reign.</l>
+            </lg>
+            <lg>
+               <l>Your private life did a juſt Pattern give</l>
+               <l>How Fathers, Husbands, Pious Sons ſhould live,</l>
+               <l>Born to command, your princely vertues ſlept,</l>
+               <l>Like humble <hi>Davids,</hi> while the flock he kept.</l>
+            </lg>
+            <lg>
+               <l>But when your troubled Countrey call'd you forth,</l>
+               <l>Your flaming courage, and your matchleſs worth,</l>
+               <l>Dazeling the eyes of all that did pretend</l>
+               <l>To fierce contention, gave a proſperous end.</l>
+            </lg>
+            <lg>
+               <l>Still as you riſe the State exalted too,</l>
+               <l>Findes no Diſtemper whilſt 'tis chang'd by you;</l>
+               <l>Chang'd like the worlds great ſcene, when without noiſe</l>
+               <l>The riſing-Sun nights vulgar lights deſtroyes.</l>
+            </lg>
+            <lg>
+               <l>Had you ſome Ages paſt this Race of Glory</l>
+               <l>Run with amazement we ſhould read your ſtory,</l>
+               <l>But living Vertue all Atchievements paſt</l>
+               <l>Meets Envy ſtill to grapple with at laſt.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:168173:6"/>
+               <!-- PDF PAGE 46 -->
+               <l>This <hi>Caeſar</hi> found, and this ungratefull Age</l>
+               <l>With loſing him, went back to blood and rage.</l>
+               <l>Miſtaken <hi>Brutus</hi> thought to break their Yoak,</l>
+               <l>But cut the bond of Union with that ſtroak.</l>
+            </lg>
+            <lg>
+               <l>That Sun once ſet, a thouſand meaner Starres</l>
+               <l>Gave a dimme Light to Violence and Warres,</l>
+               <l>To ſuch a Tempeſt as now threatens all,</l>
+               <l>Did not your mighty Arme prevent the fall.</l>
+            </lg>
+            <lg>
+               <l>If <hi>Rome</hi>'s great Senate could not weild that ſword</l>
+               <l>Which of the Conquer'd world had made them Lord,</l>
+               <l>What hope had ours while yet their power was new</l>
+               <l>To rule victorious Armies but by you?</l>
+            </lg>
+            <lg>
+               <l>You that had taught them to ſubdue their Foes,</l>
+               <l>Could Order teach, and their high ſp'rits compoſe,</l>
+               <l>To ev'ry Duty could their mindes engage,</l>
+               <l>Provoke their courage, and command their rage.</l>
+            </lg>
+            <lg>
+               <l>So when a Lyon ſhakes her dreadfull main,</l>
+               <l>And angry grows; if he that firſt took pain</l>
+               <l>To tame his youth, approach the haughty beaſt,</l>
+               <l>He bends to him, but frights away the reſt.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:168173:7"/>
+               <!-- PDF PAGE 47 -->
+               <l>As the vext world to finde repoſe at laſt</l>
+               <l>It ſelf into <hi>Auguſtus</hi> Arms did caſt:</l>
+               <l>So <hi>England</hi> now, doth with like toyle oppreſt,</l>
+               <l>Her weary head upon your boſome reſt.</l>
+            </lg>
+            <lg>
+               <l>Then let the Muſes with ſuch notes as theſe</l>
+               <l>Inſtruct us what belongs unto our Peace;</l>
+               <l>Your Battails they hereafter ſhall indite,</l>
+               <l>And draw the Image of our <hi>Mars</hi> in fight.</l>
+            </lg>
+            <lg>
+               <l>Tell of Towns ſtorm'd, of Armies overcome,</l>
+               <l>Of mighty Kingdomes by your Conduct wonne,</l>
+               <l>How while you thundred Clouds of duſt did choak,</l>
+               <l>Contending Troops, and Seas lay hid in ſmoak.</l>
+            </lg>
+            <lg>
+               <l>Illuſtrious Acts high raptures doe infuſe,</l>
+               <l>And ev'ry Conqueror creats a Muſe,</l>
+               <l>Here in low ſtreyns your milder deeds we ſing,</l>
+               <l>But there (My Lord) we'l Bayes and Olive bring:</l>
+            </lg>
+            <lg>
+               <l>To Crown your head while you in Triumph ride</l>
+               <l>O're vanquiſh'd Nations, and the Sea beſide,</l>
+               <l>While all your neighbour-Princes unto you</l>
+               <l>Like <hi>Joſephs</hi> ſheaves pay reverence, and bow.</l>
+            </lg>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
